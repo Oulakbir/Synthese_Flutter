@@ -12,7 +12,7 @@ Une simple application Flutter pour gérer une liste de livres. Vous pouvez ajou
 
 ### Page d'acceuil
 
-![PageAccueil](https://github.com/Oulakbir/Synthese_Flutter/issues/1#issue-2329316588)
+![Page d'accueil](https://github.com/Oulakbir/Synthese_Flutter/issues/1#issue-2329316588)
 
 ### Ajouter un livre
 
